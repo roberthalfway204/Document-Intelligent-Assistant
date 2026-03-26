@@ -160,7 +160,7 @@ For every processed image, the pipeline generates:
 ## 👤 Author
 
 **Suraj**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Suraj210620](https://github.com/Suraj210620)
 
 ---
 
