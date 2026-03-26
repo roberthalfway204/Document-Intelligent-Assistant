@@ -1,10 +1,10 @@
-# Document Intelligent Assistant 📄🤖
+# Document Intelligent Assistant 
 
 A Python-based AI pipeline that transforms messy physical documents — like receipts, handwritten notes, and textbook pages — into structured, searchable digital data.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - **Automation** — Eliminate manual typing of information from images or PDFs
 - **Searchability** — Enable text search on scanned documents that were previously just "dead" images
@@ -13,7 +13,7 @@ A Python-based AI pipeline that transforms messy physical documents — like rec
 
 ---
 
-## 🔄 Pipeline Overview
+##  Pipeline Overview
 
 ```
 Input Image
@@ -31,7 +31,7 @@ Structured JSON Output
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -44,7 +44,7 @@ Structured JSON Output
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 document-intelligent-assistant/
@@ -62,7 +62,7 @@ document-intelligent-assistant/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 **1 — Clone the repository**
 ```bash
@@ -127,7 +127,7 @@ For every processed image, the pipeline generates:
 
 ---
 
-## 📋 Example Output
+##  Example Output
 
 ```json
 {
@@ -146,7 +146,7 @@ For every processed image, the pipeline generates:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Add Surya or LayoutLM for advanced layout analysis
 - [ ] Support PDF input files
@@ -157,13 +157,13 @@ For every processed image, the pipeline generates:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Suraj**
 - GitHub: [@Suraj210620](https://github.com/Suraj210620)
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
