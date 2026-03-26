@@ -1,4 +1,10 @@
-# 🏷️: Document Intelligent Assistant 
+# 🤖: Document Intelligent Assistant 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![OCR](https://img.shields.io/badge/OCR-Tesseract-green)
+![AI](https://img.shields.io/badge/AI-Claude%20API-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A Python-based AI pipeline that transforms messy physical documents — like receipts, handwritten notes, and textbook pages — into structured, searchable digital data.
 
